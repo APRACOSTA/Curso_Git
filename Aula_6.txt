@@ -1,0 +1,58 @@
+    1  ls
+    2  ls -la
+    3  pwd
+    4  pwd
+    5  cd desktop/
+    6  cd:\users\dante\area de trabalho
+    7  dir
+    8  clear
+    9  ls
+   10  ls -la
+   11  cd documents/
+   12  pwd
+   13  pwd
+   14  cd
+   15  cd desktop/
+   16  pwd
+   17  git pwd
+   18  git pwd
+   19  clear
+   20  git pwd
+   21  git pwd
+   22  cd /c/Users/defaultuser100000/Desktop/
+   23  kdir curso_1
+   24  git config --global user.name 'Andrea Ramos'
+   25  git config --global user.email 'apaolaramos86@gmail.com'
+   26  git config user.name
+   27  cd
+   28  clear
+   29  git config --global user.name 'Andrea Ramos'
+   30  git config --global user.email 'apaolaramos86@gmail.com'
+   31  git config user.name
+   32  mkdir Curso_Git
+   33  git init
+   34  git status
+   35  git init
+   36  git log
+   37  git history -c
+   38  git log
+   39  git congig --global alias.logpg 'log --pretty=oneline --graph'
+   40  clear
+   41  git config --global alias.logpg 'log --pretty=oneline --graph'
+   42  git loggp
+   43  git config --global alias.logpg 'log --pretty=oneline --graph'
+   44  gitlogpg
+   45  git logpg
+   46  git alias.CAM 'commit -am'
+   47  git config alias.CAM 'commit -am'
+   48  git CAM
+   49  git tag
+   50  git tag -a v0.1 -m 'Até a Aula 5' 
+   51  git logpg
+   52  git checkout master
+   53  git rebase feature
+   54  git logpg
+   55  history > Aula_6.txt'
+   56  git logpg
+   57  git add Aula_6.txt
+   58  history > Aula_6.txt
